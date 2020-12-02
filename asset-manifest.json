@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/caruction-front/static/js/main.8e302b32.chunk.js",
+    "main.js.map": "/caruction-front/static/js/main.8e302b32.chunk.js.map",
+    "runtime-main.js": "/caruction-front/static/js/runtime-main.bccae324.js",
+    "runtime-main.js.map": "/caruction-front/static/js/runtime-main.bccae324.js.map",
+    "static/js/2.e3680de4.chunk.js": "/caruction-front/static/js/2.e3680de4.chunk.js",
+    "static/js/2.e3680de4.chunk.js.map": "/caruction-front/static/js/2.e3680de4.chunk.js.map",
+    "index.html": "/caruction-front/index.html",
+    "static/js/2.e3680de4.chunk.js.LICENSE.txt": "/caruction-front/static/js/2.e3680de4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bccae324.js",
+    "static/js/2.e3680de4.chunk.js",
+    "static/js/main.8e302b32.chunk.js"
+  ]
+}
